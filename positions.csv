@@ -1,0 +1,10 @@
+﻿# ticker,expiration_date,option_type,strike,price_move,purchase_price,contracts
+PLTR,16-Jan-26,call,110,0,10.04,2
+PLTR,16-May-25,call,90,0,7.08,3
+UBER,16-Jan-26,call,75,+10,8.43,1
+UBER,16-Jan-26,call,80,+10,6.93,1
+AAPL,19-Dec-25,call,295,+10,3.85,3
+AI,16-Jan-26,call,40,+20,5.59,1
+AI,17-Apr-25,call,47.5,+20,1.19,9
+QBTS,16-Jan-26,call,5,+20,2.80,3
+QBTS,17-Apr-25,call,9,+20,1.28,4
